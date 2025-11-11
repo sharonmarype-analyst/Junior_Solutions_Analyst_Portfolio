@@ -23,6 +23,8 @@ I developed a dynamic, interactive dashboard in **Excel**, utilizing **Pivot Tab
 * **Insight:** Identified that while **Mumbai** generates the highest total revenue, **Delhi** shows the fastest growth rate month-over-month.
 * **Recommendation:** Recommended reallocating marketing resources toward faster-growing regions like Delhi, and focusing sales training on maximizing units-per-order in high-revenue cities like Mumbai.
 
+### [View Final Dashboard Visual Here](./1_Sales_Dashboard_final1.png)
+
 ---
 
 ⚙️ Project 2: Financial Reporting Automation (Power Query & Power Pivot)
@@ -47,3 +49,5 @@ Impact: The solution delivered a complex, integrated report within the tight dea
 
 4. Skills Showcased
 Power Query (ETL), Power Pivot, DAX, Relational Modeling, Urgent Stakeholder Reporting, and Data Transformation.
+### [View Power Query ETL Applied Steps Here](./2_power_query_editor.png)
+
