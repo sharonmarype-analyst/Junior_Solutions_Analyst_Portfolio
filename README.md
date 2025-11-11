@@ -23,7 +23,7 @@ I developed a dynamic, interactive dashboard in **Excel**, utilizing **Pivot Tab
 * **Insight:** Identified that while **Mumbai** generates the highest total revenue, **Delhi** shows the fastest growth rate month-over-month.
 * **Recommendation:** Recommended reallocating marketing resources toward faster-growing regions like Delhi, and focusing sales training on maximizing units-per-order in high-revenue cities like Mumbai.
 
-### [View Final Dashboard Visual Here](./1_)
+### [View Final Dashboard Visual Here](./1_Sales_Dashboard_final1.png_)
 
 ---
 
