@@ -49,5 +49,5 @@ Impact: The solution delivered a complex, integrated report within the tight dea
 
 4. Skills Showcased
 Power Query (ETL), Power Pivot, DAX, Relational Modeling, Urgent Stakeholder Reporting, and Data Transformation.
-### [View Power Query ETL Applied Steps Here](./2_power_query_editor.png)
+### [View Power Query ETL Applied Steps Here](./power_query_editor.png)
 
